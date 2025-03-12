@@ -10,7 +10,7 @@ from text_image import text_to_image
 
 def main():
     
-    introduction = "Hello! I am Harley,your Personal Assistant. How can I assist you today?"
+    introduction = "Hello! I am Harley, your Personal Assistant. How can I assist you today?"
     print(f"\n{introduction}\n")
     text_to_speech(introduction)
     while True:
