@@ -3,7 +3,7 @@ import requests
 import google.generativeai as genai
 from dotenv import load_dotenv
 
-# Load environment variables
+# Load environment variable's
 load_dotenv()
 
 SERPAPI_KEY = os.getenv("SERPAPI_KEY")

@@ -1,4 +1,4 @@
-Personal Assistant built using Python. It can perform various tasks like:
+Personal Assistant built using Python and AI. It can perform various tasks like:
 - Speech Recognition (Speech-to-Text)
 - Text-to-Speech
 - Text-to- image
